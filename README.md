@@ -36,16 +36,16 @@ change the paasword in khata_book.py at line 19
 ### Now you are good to go just Run khata_book.py 
 
 ## The UI Looks Like This 
-<img src="https://github.com/Knighthawk-Leo/Awesome_Python_Scripts/blob/Knighthawk-Leo-patch-1/GUIScripts/Khata%20Book%20Management%20System/Images/khata.jpg">
+<img src="https://github.com/Knighthawk-Leo/Khata-Book-Management-System/blob/main/Images/khata.jpg">
 
 ## To Insert The Record Use This 
-<img src="https://github.com/Knighthawk-Leo/Awesome_Python_Scripts/blob/Knighthawk-Leo-patch-1/GUIScripts/Khata%20Book%20Management%20System/Images/KhataAdding.jpg">
+<img src="https://github.com/Knighthawk-Leo/Khata-Book-Management-System/blob/main/Images/KhataAdding.jpg">
 
 ## To Acces Particular Customer Data
-<img src="https://github.com/Knighthawk-Leo/Awesome_Python_Scripts/blob/Knighthawk-Leo-patch-1/GUIScripts/Khata%20Book%20Management%20System/Images/Showcust.jpg">
+<img src="https://github.com/Knighthawk-Leo/Khata-Book-Management-System/blob/main/Images/Showcust.jpg">
 
 ## To Show All remaining Money
-<img src="https://github.com/Knighthawk-Leo/Awesome_Python_Scripts/blob/Knighthawk-Leo-patch-1/GUIScripts/Khata%20Book%20Management%20System/Images/showall.jpg">
+<img src="https://github.com/Knighthawk-Leo/Khata-Book-Management-System/blob/main/Images/showall.jpg">
 
 
 
